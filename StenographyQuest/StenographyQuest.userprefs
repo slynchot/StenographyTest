@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game Scripts/room.js">
+    <Files>
+      <File FileName="Assets/Game Scripts/UIBox.js" Line="15" Column="1" />
+      <File FileName="Assets/Game Scripts/Directionator.js" Line="12" Column="21" />
+      <File FileName="Assets/Game Scripts/room.js" Line="11" Column="1" />
+      <File FileName="Assets/Game Scripts/testestest.js" Line="4" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
